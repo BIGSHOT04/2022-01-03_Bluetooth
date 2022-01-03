@@ -21,14 +21,12 @@ p {
 
 .frame {
   
- 
+ float: right;
+  width: 380px;
   padding: 0px 5px 5px;
   overflow: hidden;
   margin-left: 20px;
   margin-bottom: 20px;
-  float: left;
-  height: 15px;
-  width: 30px;
 }
 
 .frame img {
